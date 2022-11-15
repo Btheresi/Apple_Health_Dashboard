@@ -13,4 +13,4 @@
 12. Done - Forked repository called Apple Health in KSU-HMI Github  BT
 13. Done - Renamed respository BT
 14. Done - Add GetBMI function BT
-
+15. Done - Convert Height Formula to meter BT
