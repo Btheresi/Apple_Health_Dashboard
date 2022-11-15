@@ -11,5 +11,6 @@
 11. Create PPT and final presentation JW 
 
 12. Done - Forked repository called Apple Health in KSU-HMI Github  BT
-13. Done - Renamed respository
+13. Done - Renamed respository BT
+14. Done - Add GetBMI function BT
 
