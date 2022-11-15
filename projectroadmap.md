@@ -15,3 +15,4 @@
 14. Done - Add GetBMI function BT
 15. Done - Convert Height Formula to meter BT
 16. Done - Convert Weight Formula to kilograms BT
+17. Done - Calculate BMI - BT
