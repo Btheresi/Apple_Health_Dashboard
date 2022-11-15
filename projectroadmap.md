@@ -10,4 +10,6 @@
 10. Run final code to make sure it is error-free BL & JW
 11. Create PPT and final presentation JW 
 
+12. Done - Forked repository called Apple Health in KSU-HMI Github  BT
+13. Done - Renamed respository
 
