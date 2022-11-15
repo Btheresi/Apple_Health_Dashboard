@@ -16,3 +16,4 @@
 15. Done - Convert Height Formula to meter BT
 16. Done - Convert Weight Formula to kilograms BT
 17. Done - Calculate BMI - BT
+18. Done - Format BMI to 2 decimals BT
