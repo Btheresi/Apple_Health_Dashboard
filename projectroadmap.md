@@ -14,3 +14,4 @@
 13. Done - Renamed respository BT
 14. Done - Add GetBMI function BT
 15. Done - Convert Height Formula to meter BT
+16. Done - Convert Weight Formula to kilograms BT
