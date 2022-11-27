@@ -1,11 +1,12 @@
-# KSU_Health_Dashboard
+# Apple_Health_Dashboard
 This project shows how to export Apple Health data collected by Apple watch and create a data visualization dashboard for clinicians.
 
 # Installation
-[place holder]
+Utilizing python 3.9
 
 # Desription
-This project lays out how to take exercise data from tracked workouts in Apple Health and export it to a csv file to be parsed using Python. The goal is to create an exercise dashboard to visualize important data to a clinician.
+Apple Health Dashboard is a graphical tool to help medical professionals and patients interpret daily exercise activity data. 
+This software employs artificial intelligence to give relevant analysis of biometric data streams on a consistent basis. It automates data analysis, which was previously time-consuming and labor-intensive, and excels at extracting insights and patterns from large data sets.
 
 # Credits
-Brandon Lade- Fall 2020, Jacqueline Warren- Fall 2020
+Bonnie Theresias Fall 2022
